@@ -11,10 +11,11 @@
 - Backend
 - MLOps
 
-📌 resume link
+📌 if you want to know more about me, following resume or CV link
 - [Resume](https://www.notion.so/Resume-b1710e5eaa8d4ff99556a14ea41b8e2e?pvs=4)
+- [CV](https://docs.google.com/document/d/1ZFRfgBmyMbv7mZoLccuPKD0qqcmZCubA/edit?usp=sharing&ouid=106445527568580324181&rtpof=true&sd=true)
 
-## STACKS
+## 🛠 STACKS
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
 ![](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white)
