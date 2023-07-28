@@ -1,5 +1,5 @@
 ## 👋 Hi there! I`m Chang.Y Kim; 김창영
-#### Coding is 'Art'
+#### Walk the Walk
 ## 😄 About Me
 
 📌 Interested
