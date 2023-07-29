@@ -5,8 +5,8 @@
 📌 Interested
 - Data Mining
 - Computer Vision(CV)
-- Natural Language Processing(NLP)
 - Recommender system(Recsys)
+- Natural Language Processing(NLP)
 - Large Language Models(LLM)
 - Backend
 - MLOps
