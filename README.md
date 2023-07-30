@@ -1,10 +1,10 @@
 ## 👋 Hi there! I`m Chang.Y Kim; 김창영
-#### Walk the Walk
+> Walk the Walk
 ## 😄 About Me
 
 📌 Interested
-- Data Mining
-- Computer Vision(CV)
+- **Data Mining**
+- **Computer Vision(CV)**
 - Recommender system(Recsys)
 - Natural Language Processing(NLP)
 - Large Language Models(LLM)
