@@ -40,7 +40,7 @@
 
 ![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)
-
+![](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 
 ## 📫 Contact Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black)](mailto:changzero.kim@gmail.com)
