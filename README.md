@@ -6,7 +6,6 @@
 - **Data Mining**
 - **Computer Vision(CV)**
 - Recommender system(Recsys)
-- Natural Language Processing(NLP)
 - Large Language Models(LLM)
 - Backend
 - MLOps
