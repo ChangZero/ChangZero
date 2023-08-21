@@ -7,7 +7,6 @@
 - **Computer Vision(CV)**
 - Recommender system(Recsys)
 - Large Language Models(LLM)
-- Backend
 - MLOps
 
 📌 if you want to know more about me, following resume or CV link
