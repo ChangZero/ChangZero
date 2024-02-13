@@ -4,7 +4,7 @@
 
 📌 Interested
 - **Data Mining**
-- **Computer Vision(CV)**
+- Computer Vision(CV)
 - Recommender system(Recsys)
 - Large Language Models(LLM)
 - MLOps
