@@ -2,12 +2,13 @@
 > Walk the Walk
 ## 😄 About Me
 
+‘Professonal’ means being technically excellent, but I also think it means doing your best in your role and performing it to the end. My goal is to do it like a professional.
+
 📌 Interested
-- **Data Mining**
-- Computer Vision(CV)
-- Recommender system(Recsys)
+- Data Mining
+- ML/DL
 - Large Language Models(LLM)
-- MLOps
+- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
 
 
 ## 🛠 STACKS
