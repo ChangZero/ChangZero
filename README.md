@@ -5,7 +5,7 @@
 ‘Professonal’ means being technically excellent, but I also think it means doing your best in your role and performing it to the end.
 <br>My goal is to do it like a **professional**.
 
-📌 Interested
+📌 Interest
 - Data Mining
 - ML/DL
 - Large Language Models(LLM)
