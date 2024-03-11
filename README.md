@@ -9,6 +9,9 @@
 - Data Mining
 - ML/DL
 - Large Language Models(LLM)
+
+✏️ Studying
+- Data Engineering
 - MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
 
 
