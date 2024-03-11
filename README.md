@@ -8,7 +8,7 @@
 📌 Interest
 - Data Mining
 - ML/DL
-- Large Language Models(LLM)
+- LLM(Large Language Models)
 
 ✏️ Studying
 - Data Engineering
