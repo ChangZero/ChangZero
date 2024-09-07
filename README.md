@@ -45,5 +45,5 @@
 
 ## 📫 Contact Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black)](mailto:changzero.kim@gmail.com)
-
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkdedIn&logoColor=black)](https://www.linkedin.com/in/%EC%B0%BD%EC%98%81-%EA%B9%80-8849792ba/)
 
