@@ -6,16 +6,6 @@
 <br>but I also think it means doing your best in your role and performing it to the end.
 <br>My goal is to do it like a **professional**.
 
-📌 Interest
-- Data Mining
-- ML/DL
-- LLM(Large Language Models)
-
-✏️ Studying
-- Data Engineering
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-
-
 ## 🛠 STACKS
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
