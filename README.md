@@ -1,4 +1,4 @@
-## 👋 Hi there! I`m Chang.Y Kim; 김창영
+## 👋 Hi there! I`m Conner.Kim; 김창영
 > Walk the Walk
 ## 😄 About Me
 
